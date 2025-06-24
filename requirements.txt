@@ -1,0 +1,22 @@
+black==25.1.0
+ruff==0.11.10
+safety==3.5.1
+pre-commit ==4.2.0
+langchain==0.3.25
+langgraph==0.4.5
+langchain-openai==0.3.17
+langchain-tavily==0.1.6
+langchain-community==0.3.24
+pymupdf4llm==0.0.24
+aiohttp==3.12.0
+pandas==2.2.3
+langsmith==0.3.45
+langgraph-supervisor==0.0.27
+google-cloud-bigquery==3.34.0
+google-cloud-aiplatform==1.96.0
+langchain-google-vertexai==2.0.24
+python-dotenv==1.1.0
+db-dtypes==1.4.3
+langchain-mongodb==0.6.2
+pymongo==4.13.0
+langchain-google-community==2.0.7
